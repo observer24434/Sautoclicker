@@ -61,7 +61,6 @@ Clicks always happen at the current mouse pointer position.
 ```sh
 sh install.sh --uninstall
 
----
 ```
 ## Files in this repo
 
