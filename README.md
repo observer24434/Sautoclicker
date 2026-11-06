@@ -59,15 +59,11 @@ Clicks always happen at the current mouse pointer position.
 # 🗑️ Uninstall
 
 ```sh
-sh install.sh --uninstall          # if installed with install.sh
+sh install.sh --uninstall
 
 ---
-
+```
 ## Files in this repo
 
 - `install.sh` - one-file installer (contains the whole app)
 - `cursor.png` - the app icon
-
-## License
-
-MIT, see [LICENSE](LICENSE).
