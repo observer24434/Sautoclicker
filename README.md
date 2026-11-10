@@ -16,7 +16,7 @@ Many Linux auto clickers rely on `xdotool`, which only works on X11. Sautoclicke
 
 # 📥 Install Guide
 
-## Fastest way (works on any Linux)
+## Fastest way (works on any Linux distro)
 
 ```sh
 git clone https://github.com/observer24434/Sautoclicker.git
