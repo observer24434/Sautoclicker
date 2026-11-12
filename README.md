@@ -2,7 +2,7 @@
 
 **A very fast, modern auto clicker for Linux. Works on both Wayland and X11.**
 
-Many Linux auto clickers rely on `xdotool`, which only works on X11. Sautoclicker sends clicks through the kernel (`uinput`), so it works on Wayland and X11 and can do thousands of clicks per second.
+Many Linux auto clickers rely on xdotool, which only works on X11. Sautoclicker sends clicks through the kernel (`uinput`), so it works on Wayland and X11 and can do thousands of clicks per second.
 
 - Works on **Wayland and X11**
 - Modern look that follows your system **dark / light** theme
